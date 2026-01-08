@@ -1,4 +1,4 @@
-# 🚨anomaly-detection-fraud-transactions
+# 🚨Anomaly-Detection-Fraud-Transactions
 ## 📌 Project Overview
 
 This project implements a **machine learning–based anomaly detection system** to identify **unusual and potentially fraudulent transactions** from transactional data.
